@@ -1,6 +1,6 @@
 import pandas as pd
 
-#Crear un DataFrame
+#Crear un DataFrame22222
 
 data = {
      "Nombre": ["Ana","Luis",None,"Luis"],
